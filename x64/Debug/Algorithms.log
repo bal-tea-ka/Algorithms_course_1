@@ -1,0 +1,6 @@
+﻿  Search.cpp
+C:\Users\lvovm\source\repos\Algorithms\Input_random_array.h(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lvovm\source\repos\Algorithms\Input_random_array.h(36,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lvovm\source\repos\Algorithms\Input_random_array.h(31): warning C4172: возвращение адреса локальной или временной переменной : array
+C:\Users\lvovm\source\repos\Algorithms\Search.cpp(51): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Algorithms.vcxproj -> C:\Users\lvovm\source\repos\Algorithms\x64\Debug\Algorithms.exe
